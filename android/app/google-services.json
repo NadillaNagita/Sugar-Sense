@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "648218834534",
+    "project_id": "sugar-sense-363c2",
+    "storage_bucket": "sugar-sense-363c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648218834534:android:d326479d02bd8c20125fa7",
+        "android_client_info": {
+          "package_name": "com.sugarsense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648218834534-q2lend0f5ks37qrdg9ab8fckeplabcjf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sugarsense",
+            "certificate_hash": "3139066694a8b43d10fd065c055b71ab30f5bc1e"
+          }
+        },
+        {
+          "client_id": "648218834534-vk5rpul6c6hpr6832tip1bvk1pkmrk5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0f4nuhKq4Libv1fpa3AxCF9ygdO5ZtKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648218834534-vk5rpul6c6hpr6832tip1bvk1pkmrk5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="app_name">Sugar Sense</string>
+<string name="facebook_app_id">1528586511169798</string>
+<string name="fb_login_protocol_scheme">fb1528586511169798</string>
+<string name="facebook_client_token">08694c996618bf7fb13bc6fd642dba98</string>
+
+
+</resources>

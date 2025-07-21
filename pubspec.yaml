@@ -1,0 +1,55 @@
+name: sugarsense
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.3 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.9.0
+  firebase_auth: ^5.3.4
+  image_picker: ^0.8.7+3
+  cloud_firestore: ^5.6.5
+  path_provider: ^2.0.14
+  cupertino_icons: ^1.0.6
+  mailer: ^6.0.0
+  device_info_plus: ^11.3.0
+  url_launcher: ^6.1.10
+  geolocator: ^9.0.2
+  geocoding: ^2.0.5
+  google_sign_in: ^6.2.2
+  flutter_facebook_auth: ^6.0.3
+  http: ^1.3.0
+  intl: ^0.18.1
+  syncfusion_flutter_charts: ^20.4.46
+
+
+dev_dependencies:
+  integration_test:
+    sdk: flutter
+  flutter_test:
+    sdk: flutter
+  flutter_native_splash: ^2.2.11
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.14.3
+
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/images/splash_logo.png
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: assets/images/splash_logo.png
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/welcome_image.png
+    - assets/images/splash_logo.png
+
+
